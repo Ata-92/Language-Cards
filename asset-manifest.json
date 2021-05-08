@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Language-Cards/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Language-Cards/static/js/main.7ff74922.chunk.js",
+    "main.js.map": "/Language-Cards/static/js/main.7ff74922.chunk.js.map",
+    "runtime-main.js": "/Language-Cards/static/js/runtime-main.d9efb1a3.js",
+    "runtime-main.js.map": "/Language-Cards/static/js/runtime-main.d9efb1a3.js.map",
+    "static/js/2.253455e3.chunk.js": "/Language-Cards/static/js/2.253455e3.chunk.js",
+    "static/js/2.253455e3.chunk.js.map": "/Language-Cards/static/js/2.253455e3.chunk.js.map",
+    "static/js/3.7e79121e.chunk.js": "/Language-Cards/static/js/3.7e79121e.chunk.js",
+    "static/js/3.7e79121e.chunk.js.map": "/Language-Cards/static/js/3.7e79121e.chunk.js.map",
+    "index.html": "/Language-Cards/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Language-Cards/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.253455e3.chunk.js.LICENSE.txt": "/Language-Cards/static/js/2.253455e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Language-Cards/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9efb1a3.js",
+    "static/js/2.253455e3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7ff74922.chunk.js"
+  ]
+}
