@@ -4,4 +4,17 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: .1rem;
 }
+
+.Card {
+  background-color: #F48B29;
+  width: 30%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 3rem;
+}
+
+h1 {
+  color: #fff;
+  font-size: large;
+}
 /*# sourceMappingURL=Card.css.map */
