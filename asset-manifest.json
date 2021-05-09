@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Language-Cards/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Language-Cards/static/js/main.cb15cfcf.chunk.js",
-    "main.js.map": "/Language-Cards/static/js/main.cb15cfcf.chunk.js.map",
+    "main.css": "/Language-Cards/static/css/main.9337900e.chunk.css",
+    "main.js": "/Language-Cards/static/js/main.eae8e584.chunk.js",
+    "main.js.map": "/Language-Cards/static/js/main.eae8e584.chunk.js.map",
     "runtime-main.js": "/Language-Cards/static/js/runtime-main.d9efb1a3.js",
     "runtime-main.js.map": "/Language-Cards/static/js/runtime-main.d9efb1a3.js.map",
     "static/js/2.3472e62c.chunk.js": "/Language-Cards/static/js/2.3472e62c.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.7e79121e.chunk.js": "/Language-Cards/static/js/3.7e79121e.chunk.js",
     "static/js/3.7e79121e.chunk.js.map": "/Language-Cards/static/js/3.7e79121e.chunk.js.map",
     "index.html": "/Language-Cards/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Language-Cards/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3472e62c.chunk.js.LICENSE.txt": "/Language-Cards/static/js/2.3472e62c.chunk.js.LICENSE.txt"
+    "static/css/main.9337900e.chunk.css.map": "/Language-Cards/static/css/main.9337900e.chunk.css.map",
+    "static/js/2.3472e62c.chunk.js.LICENSE.txt": "/Language-Cards/static/js/2.3472e62c.chunk.js.LICENSE.txt",
+    "static/media/react.7b78f5c3.svg": "/Language-Cards/static/media/react.7b78f5c3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d9efb1a3.js",
     "static/js/2.3472e62c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.cb15cfcf.chunk.js"
+    "static/css/main.9337900e.chunk.css",
+    "static/js/main.eae8e584.chunk.js"
   ]
 }
