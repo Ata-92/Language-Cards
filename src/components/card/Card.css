@@ -9,15 +9,16 @@
   background: linear-gradient(45deg, #F48B29 45%, #53C0DD 45%, #53C0DD 55%, #F48B29 55%);
   width: 30%;
   margin: 1rem auto;
-  padding: 1rem;
+  padding: .5rem;
   border-radius: 1rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 h1 {
@@ -28,7 +29,9 @@ h1 {
 }
 
 .Card div {
-  width: 7rem;
+  position: relative;
+  width: 7.5rem;
+  height: 5rem;
   margin: .5rem;
   padding: .5rem;
   background-color: #FBECDC;
@@ -45,5 +48,35 @@ h1 {
 
 .Card div .php-img {
   padding-top: .5rem;
+}
+
+.Card div p {
+  font-size: small;
+  font-weight: bold;
+  letter-spacing: normal;
+  margin-top: .5rem;
+  position: absolute;
+  bottom: .5rem;
+  left: .5rem;
+  right: .5rem;
+}
+
+.Card div:hover {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: palevioletred solid .2rem;
+  width: 8.5rem;
+  height: 6rem;
+  cursor: pointer;
+}
+
+.Card div:hover img {
+  width: 3.5rem;
+  -webkit-transition: width 0.1s ease-in-out;
+  transition: width 0.1s ease-in-out;
+}
+
+.Card div:hover .javascript-img {
+  width: 6rem;
 }
 /*# sourceMappingURL=Card.css.map */

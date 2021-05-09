@@ -6,11 +6,11 @@ $border-radius: 1rem;
   background: linear-gradient(45deg, #F48B29 45%, #53C0DD 45%, #53C0DD 55%, #F48B29 55%);
   width: 30%;
   margin: 1rem auto;
-  padding: 1rem;
+  padding: .5rem;
   border-radius: $border-radius;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 h1 {
@@ -21,18 +21,52 @@ h1 {
 }
 
 .Card div {
-  width: 7rem;
+  position: relative;
+  width: 7.5rem;
+  height: 5rem;
   margin: .5rem;
   padding: .5rem;
   background-color: #FBECDC;
   border-radius: $border-radius;
+
   & img {
     width: 3rem;
   }
+
   .javascript-img {
     width: 5rem;
   }
+
   .php-img {
     padding-top: .5rem;
+  }
+
+  & p {
+    font-size: small;
+    font-weight: bold;
+    letter-spacing: normal;
+    margin-top: .5rem;
+    position: absolute;
+    bottom: .5rem;
+    left: .5rem;
+    right: .5rem;
+  }
+
+  &:hover {
+    box-sizing: border-box;
+    border: palevioletred solid .2rem;
+    width: 8.5rem;
+    height: 6rem;
+    cursor: pointer;
+
+    & img {
+      width: 3.5rem;
+      transition: width 0.1s ease-in-out;
+    }
+
+    .javascript-img {
+      width: 6rem;
+    }
+
   }
 }
