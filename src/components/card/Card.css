@@ -6,7 +6,7 @@
 }
 
 .Card {
-  background-color: #F48B29;
+  background: linear-gradient(45deg, #F48B29 45%, #53C0DD 45%, #53C0DD 55%, #F48B29 55%);
   width: 30%;
   margin: 1rem auto;
   padding: 1rem;
@@ -41,5 +41,9 @@ h1 {
 
 .Card div .javascript-img {
   width: 5rem;
+}
+
+.Card div .php-img {
+  padding-top: .5rem;
 }
 /*# sourceMappingURL=Card.css.map */
