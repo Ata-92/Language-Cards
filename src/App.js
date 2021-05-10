@@ -10,7 +10,7 @@ function App() {
         <img src={react} alt="React Logo" width="20%"/>
         <div className="language-cards">
           <h1>Languages</h1>
-
+          {categories.map((category) => (<Card name={category.name} img={category.img} options={category.options}/>))}
         </div>
       </div>
     </div>
