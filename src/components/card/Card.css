@@ -28,8 +28,8 @@
 
 .Card div:hover img {
   width: 3.5rem;
-  -webkit-transition: width 0.1s ease-in-out;
-  transition: width 0.1s ease-in-out;
+  -webkit-transition: width 0.2s ease-in-out;
+  transition: width 0.2s ease-in-out;
 }
 
 .Card div:hover .javascript-img {
@@ -60,11 +60,8 @@
 }
 
 .Card:hover {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  border: palevioletred solid .2rem;
-  width: 8.5rem;
-  height: 6rem;
+  -webkit-box-shadow: 0 0 .2rem .2rem palevioletred;
+          box-shadow: 0 0 .2rem .2rem palevioletred;
   cursor: pointer;
 }
 /*# sourceMappingURL=Card.css.map */
