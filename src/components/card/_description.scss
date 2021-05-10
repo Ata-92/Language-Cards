@@ -1,0 +1,12 @@
+.Card ul {
+  font-size: .6rem;
+  font-weight: bold;
+  list-style-position: inside;
+  text-align: left;
+  width: 90%;
+  margin: .5rem auto;
+
+  & li {
+    margin-top: .1rem;
+  }
+}
