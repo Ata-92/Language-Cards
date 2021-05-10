@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/Language-Cards/static/css/main.9337900e.chunk.css",
-    "main.js": "/Language-Cards/static/js/main.eae8e584.chunk.js",
-    "main.js.map": "/Language-Cards/static/js/main.eae8e584.chunk.js.map",
-    "runtime-main.js": "/Language-Cards/static/js/runtime-main.d9efb1a3.js",
-    "runtime-main.js.map": "/Language-Cards/static/js/runtime-main.d9efb1a3.js.map",
-    "static/js/2.3472e62c.chunk.js": "/Language-Cards/static/js/2.3472e62c.chunk.js",
-    "static/js/2.3472e62c.chunk.js.map": "/Language-Cards/static/js/2.3472e62c.chunk.js.map",
-    "static/js/3.7e79121e.chunk.js": "/Language-Cards/static/js/3.7e79121e.chunk.js",
-    "static/js/3.7e79121e.chunk.js.map": "/Language-Cards/static/js/3.7e79121e.chunk.js.map",
+    "main.css": "/Language-Cards/static/css/main.31b710a1.chunk.css",
+    "main.js": "/Language-Cards/static/js/main.2ae0b40a.chunk.js",
+    "main.js.map": "/Language-Cards/static/js/main.2ae0b40a.chunk.js.map",
+    "runtime-main.js": "/Language-Cards/static/js/runtime-main.4f3197a5.js",
+    "runtime-main.js.map": "/Language-Cards/static/js/runtime-main.4f3197a5.js.map",
+    "static/js/2.12b2f003.chunk.js": "/Language-Cards/static/js/2.12b2f003.chunk.js",
+    "static/js/2.12b2f003.chunk.js.map": "/Language-Cards/static/js/2.12b2f003.chunk.js.map",
+    "static/js/3.a6c5032d.chunk.js": "/Language-Cards/static/js/3.a6c5032d.chunk.js",
+    "static/js/3.a6c5032d.chunk.js.map": "/Language-Cards/static/js/3.a6c5032d.chunk.js.map",
     "index.html": "/Language-Cards/index.html",
-    "static/css/main.9337900e.chunk.css.map": "/Language-Cards/static/css/main.9337900e.chunk.css.map",
-    "static/js/2.3472e62c.chunk.js.LICENSE.txt": "/Language-Cards/static/js/2.3472e62c.chunk.js.LICENSE.txt",
+    "static/css/main.31b710a1.chunk.css.map": "/Language-Cards/static/css/main.31b710a1.chunk.css.map",
+    "static/js/2.12b2f003.chunk.js.LICENSE.txt": "/Language-Cards/static/js/2.12b2f003.chunk.js.LICENSE.txt",
+    "static/media/cpp.c0a0d2fd.png": "/Language-Cards/static/media/cpp.c0a0d2fd.png",
+    "static/media/css.616d011c.png": "/Language-Cards/static/media/css.616d011c.png",
+    "static/media/go.a0b3b49a.png": "/Language-Cards/static/media/go.a0b3b49a.png",
+    "static/media/java.a507ef79.png": "/Language-Cards/static/media/java.a507ef79.png",
+    "static/media/javascript.7f875163.png": "/Language-Cards/static/media/javascript.7f875163.png",
+    "static/media/php.c767c571.png": "/Language-Cards/static/media/php.c767c571.png",
+    "static/media/python.40f1d1b1.png": "/Language-Cards/static/media/python.40f1d1b1.png",
     "static/media/react.7b78f5c3.svg": "/Language-Cards/static/media/react.7b78f5c3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9efb1a3.js",
-    "static/js/2.3472e62c.chunk.js",
-    "static/css/main.9337900e.chunk.css",
-    "static/js/main.eae8e584.chunk.js"
+    "static/js/runtime-main.4f3197a5.js",
+    "static/js/2.12b2f003.chunk.js",
+    "static/css/main.31b710a1.chunk.css",
+    "static/js/main.2ae0b40a.chunk.js"
   ]
 }
