@@ -2,40 +2,6 @@
   margin: 0;
   padding: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  letter-spacing: .1rem;
-}
-
-.Card {
-  background: linear-gradient(45deg, #F48B29 45%, #53C0DD 45%, #53C0DD 55%, #F48B29 55%);
-  width: 30%;
-  margin: 1rem auto;
-  padding: .5rem;
-  border-radius: 1rem;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-
-h1 {
-  color: #fff;
-  font-size: large;
-  width: 100%;
-  margin-bottom: 1rem;
-}
-
-.Card div {
-  position: relative;
-  width: 7.5rem;
-  height: 5rem;
-  margin: .5rem;
-  padding: .5rem;
-  background-color: #FBECDC;
-  border-radius: 1rem;
 }
 
 .Card div img {
@@ -53,21 +19,11 @@ h1 {
 .Card div p {
   font-size: small;
   font-weight: bold;
-  letter-spacing: normal;
   margin-top: .5rem;
   position: absolute;
   bottom: .5rem;
   left: .5rem;
   right: .5rem;
-}
-
-.Card div:hover {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  border: palevioletred solid .2rem;
-  width: 8.5rem;
-  height: 6rem;
-  cursor: pointer;
 }
 
 .Card div:hover img {
@@ -78,5 +34,37 @@ h1 {
 
 .Card div:hover .javascript-img {
   width: 6rem;
+}
+
+.Card ul {
+  font-size: .6rem;
+  font-weight: bold;
+  list-style-position: inside;
+  text-align: left;
+  width: 90%;
+  margin: .5rem auto;
+}
+
+.Card ul li {
+  margin-top: .1rem;
+}
+
+.Card {
+  position: relative;
+  width: 7.5rem;
+  height: 5rem;
+  margin: .5rem;
+  padding: .5rem;
+  background-color: #FBECDC;
+  border-radius: 1rem;
+}
+
+.Card:hover {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: palevioletred solid .2rem;
+  width: 8.5rem;
+  height: 6rem;
+  cursor: pointer;
 }
 /*# sourceMappingURL=Card.css.map */

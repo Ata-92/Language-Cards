@@ -1,0 +1,34 @@
+.Card div {
+  & img {
+    width: 3rem;
+  }
+
+  .javascript-img {
+    width: 5rem;
+  }
+
+  .php-img {
+    padding-top: .5rem;
+  }
+
+  & p {
+    font-size: small;
+    font-weight: bold;
+    margin-top: .5rem;
+    position: absolute;
+    bottom: .5rem;
+    left: .5rem;
+    right: .5rem;
+  }
+
+  &:hover{
+    & img {
+      width: 3.5rem;
+      transition: width 0.5s ease-in-out;
+    }
+    .javascript-img {
+      width: 6rem;
+    }
+  }
+
+}

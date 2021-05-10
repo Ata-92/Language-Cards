@@ -9,3 +9,22 @@
   margin: auto;
   padding: 2rem 0 1.7rem;
 }
+
+.language-cards {
+  background: linear-gradient(45deg, #F48B29 45%, #53C0DD 45%, #53C0DD 55%, #F48B29 55%);
+  width: 30%;
+  margin: 1rem auto;
+  padding: .5rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  color: #fff;
+  font-size: large;
+  width: 100%;
+  margin-bottom: 1rem;
+  letter-spacing: .1rem;
+}
